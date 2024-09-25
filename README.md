@@ -1,4 +1,7 @@
 # Deno and Vue.js
+
+
+
 ## A dinosaur app built with Vue 3, Vite and TypeScript
 
 This demo is a simple Vue.js app. It uses the Vue 3 framework, Vite as the build tool, and TypeScript as the language. The app is a simple dinosaur app that displays a list of dinosaurs and allows the user to add a new dinosaur to the list.
@@ -18,3 +21,5 @@ Once you have Deno installed, you can run the app with the following command:
 ```bash
 deno task dev
 ```
+
+![Deno logo](https://docs.deno.com/img/logo.svg) &nbsp;💚 ![Vue logo by Evan Yu](./src/assets/vue.svg)
