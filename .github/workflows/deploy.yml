@@ -38,5 +38,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "tutorial-with-vue"
-          entrypoint: "api/main.ts"
-          root: "/"
+          entrypoint: "./api/main.ts"
+          root: ""
