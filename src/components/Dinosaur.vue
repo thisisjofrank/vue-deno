@@ -9,7 +9,7 @@ export default defineComponent({
         };
     },
     async mounted() {
-        const res = await fetch(`http://localhost:8000/dinosaurs/${this.dinosaur}`);
+        const res = await fetch(`/api/dinosaurs/${this.dinosaur}`);
         this.dinosaurDetails = await res.json();
     }
 });

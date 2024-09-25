@@ -3,6 +3,7 @@
   "packages": {
     "specifiers": {
       "jsr:@oak/commons@^1.0": "jsr:@oak/commons@1.0.0",
+      "jsr:@oak/oak": "jsr:@oak/oak@17.0.0",
       "jsr:@oak/oak@^17.0.0": "jsr:@oak/oak@17.0.0",
       "jsr:@std/assert@^1.0": "jsr:@std/assert@1.0.5",
       "jsr:@std/bytes@^1.0": "jsr:@std/bytes@1.0.2",
@@ -19,8 +20,10 @@
       "npm:path-to-regexp@6.2.1": "npm:path-to-regexp@6.2.1",
       "npm:typescript@^5.2.2": "npm:typescript@5.5.4",
       "npm:vite": "npm:vite@5.4.6",
+      "npm:vite@5.4.6": "npm:vite@5.4.6",
       "npm:vite@^5.3.4": "npm:vite@5.4.6",
       "npm:vue-router@^4.4.5": "npm:vue-router@4.4.5_vue@3.5.1__typescript@5.5.4_typescript@5.5.4",
+      "npm:vue-tsc@2.1.6": "npm:vue-tsc@2.1.6_typescript@5.5.4",
       "npm:vue-tsc@^2.0.24": "npm:vue-tsc@2.1.6_typescript@5.5.4",
       "npm:vue@^3.4.31": "npm:vue@3.5.1_typescript@5.5.4"
     },

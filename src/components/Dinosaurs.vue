@@ -3,7 +3,7 @@ import { defineComponent } from 'vue';
 
 export default defineComponent({
     async setup() {
-        const res = await fetch("http://localhost:8000/dinosaurs")
+        const res = await fetch("/api/dinosaurs")
         const dinosaurs = await res.json() as Dinosaur[];
         return { dinosaurs };
     }
